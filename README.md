@@ -29,7 +29,7 @@ The dashboard should:
  ├── style.css\
  ├── script.js\
  ├── image.png\
- └── README.md\
+ └── README.md
 
 
 ## Screenshots
