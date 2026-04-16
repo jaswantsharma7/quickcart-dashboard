@@ -25,11 +25,11 @@ The dashboard should:
 
  ## Project Structure
  quickcart-dashboard/
-- ├── index.html
-- ├── style.css
-- ├── script.js
-- ├── image.png
-- └── README.md
+ ├── index.html\
+ ├── style.css\
+ ├── script.js\
+ ├── image.png\
+ └── README.md\
 
 
 ## Screenshots
