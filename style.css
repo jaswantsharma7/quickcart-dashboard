@@ -1,0 +1,12 @@
+body {
+    background-color: #ffffff;
+    color: #333333;
+}
+
+.card img {
+    margin-bottom: 10px;
+}
+
+.card {
+    border: 1px solid #ddd;
+}
