@@ -24,12 +24,13 @@ The dashboard should:
  - Responsive UI
 
  ## Project Structure
--quickcart-dashboard/
-          │
-          ├── index.html
-          ├── style.css
-          ├── script.js
-          └── README.md
+ quickcart-dashboard/
+├── index.html
+├── style.css
+├── script.js
+├── image.png
+└── README.md
+
 
 ## Screenshots
 ![alt text](image.png)
