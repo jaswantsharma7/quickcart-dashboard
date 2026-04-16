@@ -33,3 +33,4 @@ quickcart-dashboard/
 
 ## Screenshots
 ![alt text](image.png)
+ live link : https://quickcart-dashboard-one.vercel.app/
