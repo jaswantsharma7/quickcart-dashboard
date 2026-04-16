@@ -1,7 +1,7 @@
 ## Frontend Assessment 
- -- Based on HTML, JavaScript, BootStrap
- -- NO React Used
- -- API : https://fakestoreapi.com
+Based on HTML, JavaScript, BootStrap
+NO React Used
+API : https://fakestoreapi.com
 
 ## Problem Statement (Fictitious Scenario)
 **An e-commerce startup “QuickCart” wants to build a Product Listing Dashboard for internal use.**
